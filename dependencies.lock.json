@@ -1,0 +1,73 @@
+{
+  "go": "1.27.1",
+  "modules": {
+    "github.com/xwb1989/sqlparser": {
+      "version": "v0.0.0-20180606152119-120387863bf2",
+      "info": {
+        "bytes": 78,
+        "sha256": "f4ab01688e02b03b16e9152c27a02df6a3460f2bfcd3f4f40971b59452da18cc"
+      },
+      "mod": {
+        "bytes": 36,
+        "sha256": "06b0ec3648e531347044b5e3e27da54ebe1f7100cdd324571ecbc5a38c9cd60d"
+      },
+      "zip": {
+        "bytes": 183952,
+        "sha256": "9ebb970f2006a76b86f8cfb4fe58e3618d6a37055dd1f70a4f1415d428dba728"
+      }
+    },
+    "github.com/shopspring/decimal": {
+      "version": "v1.4.0",
+      "info": {
+        "bytes": 194,
+        "sha256": "2f9db5cd996d74594396f798648aea9fa3fe6740c04b6ffdd5fc023bc1bd6b63"
+      },
+      "mod": {
+        "bytes": 46,
+        "sha256": "fc8a8e1fa14e49884ec9f962563a4ef51fa0a9bbfb7dbcb2ec8958e1f00988c9"
+      },
+      "zip": {
+        "bytes": 57031,
+        "sha256": "751d4cd3460984afc72973d2a0df56ed9b10499c5cd0508d7f2207245d9e3315"
+      }
+    }
+  },
+  "vendor_manifest": {
+    "modules.txt": "219422e15c1aee76cd906bdc63d644456421a559732b645781d8b4400170034b",
+    "github.com/shopspring/decimal/LICENSE": "b92ba0f6ee02f2309628bfdadb123668a17c016e475ba477b857d33470d9d625",
+    "github.com/shopspring/decimal/decimal-go.go": "e3da06b81105dd26de72443f5980242cd821458d65d5558b44891d1a108cd97f",
+    "github.com/shopspring/decimal/rounding.go": "1db1de0fd77a66d2ed5282ef4c95fcb42967c1426dd7cc53ce0c9159978b6d1a",
+    "github.com/shopspring/decimal/.gitignore": "da1ddf5df2eece030d9823eceeed01b80f1606d70953a28c9a6e59e5187b11a8",
+    "github.com/shopspring/decimal/CHANGELOG.md": "1b8538fe66a7112ae2a13e2b17a17a3fd928eff78a847d3aa01d1334b6c43b12",
+    "github.com/shopspring/decimal/decimal.go": "6e6a5e2d57405434811b03b47fd7dee7fefe1327823bcdce0437f75678694955",
+    "github.com/shopspring/decimal/README.md": "61264cbcca40d99e3f5ae6019de1ecb639ce080cb832843b5279d78d86157138",
+    "github.com/shopspring/decimal/const.go": "08bfb8421064cf5c2cfd84e53b15e8f3c76ddd629e0b4f148d935aba46f2d441",
+    "github.com/xwb1989/sqlparser/token.go": "d888d82d5aea5ee996bce2774c344b2d5083c09d9485aa0deb597dbd527bc29b",
+    "github.com/xwb1989/sqlparser/parsed_query.go": "ae5094dc3302ba6851e37b7f80d15cac2a41059ec421c8feb0afc17b1e8863eb",
+    "github.com/xwb1989/sqlparser/.travis.yml": "379e1031a91da00cb8876a34c389fe6cd94af7b370bb75fe97fe10230ba9d623",
+    "github.com/xwb1989/sqlparser/comments.go": "53e299e86e7700f95e9762856c00268b7a680bbc12b8922649a7d2a35494e055",
+    "github.com/xwb1989/sqlparser/normalizer.go": "a03f1156eb12370eda78afa77a9a24dfd674c36c79a7a41de0f74ef186a89859",
+    "github.com/xwb1989/sqlparser/.gitignore": "8addff3c5645417b7c53e7cf3c2134a4a7a108a502debf61cea1ac9c6d0e11e2",
+    "github.com/xwb1989/sqlparser/LICENSE.md": "43070e2d4e532684de521b885f385d0841030efa2b1a20bafb76133a5e1379c1",
+    "github.com/xwb1989/sqlparser/redact_query.go": "b0d3c5b2f1e05c1746aa3de1419c3574697fccac064371713cbfa53f97f834d2",
+    "github.com/xwb1989/sqlparser/analyzer.go": "b460f74fe6f8c3e5af1482b2351f7c10dcd7164f3723cfe4ce530274dea7267f",
+    "github.com/xwb1989/sqlparser/ast.go": "d275474f255dc0baf6bef9c40c05a9edfb22061f2895c57a78eaba849278e874",
+    "github.com/xwb1989/sqlparser/sql.go": "724f08aa9cb65d2ec3680cb9f06f6b9957f9ff4832e6c9f9b059c96a916a3dea",
+    "github.com/xwb1989/sqlparser/impossible_query.go": "ab001df72468664eab39252977de9698d4290c82b123ad75b39a4183ac764568",
+    "github.com/xwb1989/sqlparser/Makefile": "ec9a36b6b8c268fedbbbcf973dae9f4b572348a15a474435415ec2364221b7e4",
+    "github.com/xwb1989/sqlparser/README.md": "e1dd7e972412548027e535527018e35cd0e00fe03d24664bda2b99b0c7166128",
+    "github.com/xwb1989/sqlparser/sql.y": "08d70d5edda43da0ecf498bbb7c157c32b9df77761d52250c076f2d98baa555f",
+    "github.com/xwb1989/sqlparser/tracked_buffer.go": "f73e434791eac54167f47d65e812101178c88f774dfe7eb8b04cb44001c25ac5",
+    "github.com/xwb1989/sqlparser/encodable.go": "e934510705afc7c7781a5f4452a89429b4223366c5bdc8b0e3893903fb478be3",
+    "github.com/xwb1989/sqlparser/CONTRIBUTORS.md": "8172fbe4890f2de0385f28e5dd7de7098d90264496e441598d735a63fddde507",
+    "github.com/xwb1989/sqlparser/dependency/sqltypes/value.go": "bee683b08520af5b4b4ed3eca469f82aa48726b635de59b12c653fa4d610c759",
+    "github.com/xwb1989/sqlparser/dependency/sqltypes/testing.go": "486f5557552024fb395d3adf5096bb8f9734e6b2b4f0b05f480d73380b193b04",
+    "github.com/xwb1989/sqlparser/dependency/sqltypes/bind_variables.go": "71078a637d7fdb36f497db9960536c97b50f89b550bdcfef9806c271f97ece57",
+    "github.com/xwb1989/sqlparser/dependency/sqltypes/plan_value.go": "55b3a20b67bb5c28bf97e90b3e7341a21d0553115b5e36ddac88d0efe9e0c081",
+    "github.com/xwb1989/sqlparser/dependency/sqltypes/type.go": "014e913e0b7cb4670827b0156c8376bcf11e3155e1c039212ebec6e36231b5e1",
+    "github.com/xwb1989/sqlparser/dependency/bytes2/buffer.go": "b5e842781075d088f878ccc029eb3bbdb9323cf614ac49d78f690128d515256e",
+    "github.com/xwb1989/sqlparser/dependency/querypb/query.pb.go": "1b0c69e23cad3c1816c319a65e100f666bbdec9ff4da1279cee251fb4135aa9f",
+    "github.com/xwb1989/sqlparser/dependency/hack/hack.go": "722770a58b8399cdab692128236575c6d55721eec6f9e9abe7ad513d51580147"
+  },
+  "checksum_verification": "Official HTTPS sum.golang.org h1 and independent Go module zip/go.mod verification; per-command offline file proxy only"
+}
